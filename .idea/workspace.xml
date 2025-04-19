@@ -54,6 +54,12 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -89,7 +95,7 @@
       <option name="presentableId" value="Default" />
       <updated>1745036049433</updated>
       <workItem from="1745036050894" duration="17000" />
-      <workItem from="1745036086076" duration="1438000" />
+      <workItem from="1745036086076" duration="2182000" />
     </task>
     <servers />
   </component>
